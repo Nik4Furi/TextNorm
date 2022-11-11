@@ -25,9 +25,9 @@ TextNorm, a react app can use you ,as text utility.Mean's you can use this app a
 
 
 ## Demo
-
-Insert gif or link to demo
-
+<p text-align=left>
+<img src='https://user-images.githubusercontent.com/91304976/201335115-7d71bc2c-b41a-4539-ade9-996c24945e59.png' alt='textNorm' width='400' height='320'/>
+</p>
 
 ## Tech Stack
 
